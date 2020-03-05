@@ -1,0 +1,16 @@
+
+!/.idea/
+!/springmvc_test.iml
+!/.idea/
+.idea/.gitignore
+.idea/artifacts/
+.idea/checkstyle-idea.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/
+springmvc_test.iml
