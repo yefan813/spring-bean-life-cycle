@@ -1,3 +1,3 @@
-# spring中 bean 的生命周期
+# spring bean life cycle
 
 ![](docs/cycle.jpg)
